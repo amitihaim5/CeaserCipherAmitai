@@ -1,0 +1,8 @@
+D:\repos\caesar\obj\Debug\caesar.csproj.AssemblyReference.cache
+D:\repos\caesar\obj\Debug\caesar.csproj.SuggestedBindingRedirects.cache
+D:\repos\caesar\obj\Debug\caesar.Form1.resources
+D:\repos\caesar\obj\Debug\AmitaiHaHomo.Properties.Resources.resources
+D:\repos\caesar\obj\Debug\caesar.csproj.GenerateResource.cache
+D:\repos\caesar\obj\Debug\caesar.csproj.CoreCompileInputs.cache
+D:\repos\caesar\obj\Debug\AmitaiHaHomo.exe
+D:\repos\caesar\obj\Debug\AmitaiHaHomo.pdb
